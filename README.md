@@ -1,2 +1,3 @@
 # Hello-world
-처음 깃허브 접속해서 테스트 중
+
+Hello! my name is Janghoyeol. I like python. so i learning github. nice to meet you.
